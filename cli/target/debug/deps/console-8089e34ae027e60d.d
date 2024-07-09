@@ -1,0 +1,11 @@
+/Users/meiyuan/Documents/rust_my/w6-exerciese/cli/target/debug/deps/libconsole-8089e34ae027e60d.rmeta: /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/lib.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/common_term.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/kb.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/term.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/unix_term.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/utils.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/ansi.rs
+
+/Users/meiyuan/Documents/rust_my/w6-exerciese/cli/target/debug/deps/console-8089e34ae027e60d.d: /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/lib.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/common_term.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/kb.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/term.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/unix_term.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/utils.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/ansi.rs
+
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/lib.rs:
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/common_term.rs:
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/kb.rs:
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/term.rs:
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/unix_term.rs:
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/utils.rs:
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/ansi.rs:

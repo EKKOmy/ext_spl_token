@@ -1,0 +1,12 @@
+/Users/meiyuan/Documents/rust_my/w6-exerciese/cli/target/debug/deps/libsemver-e7641b641d08959d.rmeta: /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/lib.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/backport.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/display.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/error.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/eval.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/identifier.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/impls.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/parse.rs
+
+/Users/meiyuan/Documents/rust_my/w6-exerciese/cli/target/debug/deps/semver-e7641b641d08959d.d: /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/lib.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/backport.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/display.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/error.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/eval.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/identifier.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/impls.rs /Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/parse.rs
+
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/lib.rs:
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/backport.rs:
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/display.rs:
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/error.rs:
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/eval.rs:
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/identifier.rs:
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/impls.rs:
+/Users/meiyuan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.18/src/parse.rs:

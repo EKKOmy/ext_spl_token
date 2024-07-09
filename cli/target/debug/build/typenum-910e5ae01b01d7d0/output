@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/meiyuan/Documents/rust_my/w6-exerciese/cli/target/debug/build/typenum-910e5ae01b01d7d0/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/meiyuan/Documents/rust_my/w6-exerciese/cli/target/debug/build/typenum-910e5ae01b01d7d0/out/op.rs
